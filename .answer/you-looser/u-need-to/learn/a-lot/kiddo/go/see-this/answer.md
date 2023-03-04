@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- Kali Linux
+- Kali Linux [Click here for quick kali](https://github.com/GTekSD/WSL2-kali-setup.git)
 - Bitlocker2john tool
 - Hashcat
 - Dislocker
