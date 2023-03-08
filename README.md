@@ -32,3 +32,8 @@ If you have any suggestions or improvements for this challenge, feel free to sub
 
 This challenge is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+### Support Me
+
+If you found my work helpful, please consider buying me a coffee! Your support means a lot to me and helps me keep creating new tools and content.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3JBK3D)
